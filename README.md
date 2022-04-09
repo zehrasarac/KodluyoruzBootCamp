@@ -1,5 +1,5 @@
 # KodluyoruzBootCamp
-# **Proje1 Insertion Sort **
+# Proje1 Insertion Sort 
 [22,27,16,2,18,6]
 [22,16,27,2,18,6]
 [22,16,2,27,18,6]
@@ -16,7 +16,7 @@ O(n^2)
 [3,5,7,8,2,9,4,15,6]
 [3,5,2,8,7,9,4,15,6]
 
-# **Proje2 Merge Sort ** 
+# Proje2 Merge Sort 
 [16,21,11,8,12,22]
   16,21,11  8,12,22
     / |       / |
@@ -29,7 +29,7 @@ O(n^2)
  16,21,8,11,12,22
  O(n)
  
- # **Proje3 Binary Search Tree ** 
+ ** # Proje3 Binary Search Tree ** 
  [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
  root: 7 Solunda 5 sağında 8
  5'in solunda1 sağında 3
