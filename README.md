@@ -29,7 +29,7 @@ O(n^2)
  16,21,8,11,12,22
  O(n)
  
- ** # Proje3 Binary Search Tree ** 
+ # Proje3 Binary Search Tree 
  [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
  root: 7 Solunda 5 sağında 8
  5'in solunda1 sağında 3
